@@ -1,15 +1,15 @@
-Variables
+#Variables
 
 Each row contains, for a given subject and activity, 79 averaged signal measurements.
 
 
-Identififiers
+#Identififiers
 
     Subject: the ID of the Subject (Subject identifier, integer, ranges from 1 to 30). 
     Activity: the Name of the Activity performed by the subject when measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)      
 
 
-Measurements 
+#Measurements 
   They are the mean and the standar deviation of the signals taked by  accelerometer and gyroscope 3-axial.
     tBodyAccMeanX
     tBodyAccMeanY
